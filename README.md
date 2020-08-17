@@ -1,9 +1,7 @@
-# 🔥🔥 ICT Family App  [![Facebook Follow]](https://facebook.com/rijvizaman7)
+# 🔥🔥 ICT Family App
 Flutter representation of a ICT Family App Concept that I made when face problem with some simple issue in my department.
 
 Star⭐ the repo if you like what you see😉.
-
-[![Facebook Follow](https://upload.wikimedia.org/wikipedia/commons/2/2e/Facebook_Icon_%28Single_Path_-_Transparent_%22f%22%29.svg)](https://facebook.com/rijvizaman7)
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
@@ -26,4 +24,4 @@ Star⭐ the repo if you like what you see😉.
 
 
 ## 🤓 Author(s)
-**Rijvi Zaman** [![Facebook Follow]](https://facebook.com/rijvizaman7)
+**Rijvi Zaman**
