@@ -12,15 +12,15 @@ Star⭐ the repo if you like what you see😉.
 
 ## 📸 ScreenShots
 
-<img src="ss/1.png" width="250"/> <img src="ss/2.png" width="250"/>
-<img src="ss/3.png" width="250"/> <img src="ss/4.png" width="250"/>
-<img src="ss/5.png" width="250"/> <img src="ss/6.png" width="250"/>
-<img src="ss/7.png" width="250"/> <img src="ss/8.png" width="250"/>
-<img src="ss/9.png" width="250"/> <img src="ss/10.png" width="250"/>
-<img src="ss/11.png" width="250"/> <img src="ss/12.png" width="250"/>
-<img src="ss/13.png" width="250"/> <img src="ss/14.png" width="250"/>
+<img src="ss/1.jpg" width="250"/> <img src="ss/2.png" width="250"/>
+<img src="ss/3.png" width="250"/> <img src="ss/4.jpg" width="250"/>
+<img src="ss/5.jpg" width="250"/> <img src="ss/6.jpg" width="250"/>
+<img src="ss/7.jpg" width="250"/> <img src="ss/8.jpg" width="250"/>
+<img src="ss/9.jpg" width="250"/> <img src="ss/10.jpg" width="250"/>
+<img src="ss/11.jpg" width="250"/> <img src="ss/12.jpg" width="250"/>
+<img src="ss/13.jpg" width="250"/> <img src="ss/14.jpg" width="250"/>
 <img src="ss/15.png" width="250"/> <img src="ss/16.png" width="250"/>
-<img src="ss/17.png" width="250"/>
+<img src="ss/17.jpg" width="250"/>
 
 
 ## 🤓 Author(s)
